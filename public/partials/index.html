@@ -1,0 +1,12 @@
+<div class="container-fluid">
+	<div infinite-scroll="myPagingFunction()" infinite-scroll-distance="3">
+		<div class="item col-md-6" ng-repeat="item in items">
+			<img ng-src="{{item.thumbnaillUrl}}" alt={{item.title}}>
+			<div class="item-label">{{item.title}}</div>
+			<div class="item-blurb">{{item.blurb}}</div>
+			<div class="item-label">{{item.author}}</div>
+			<div class="item-label">{{item.thumnailUrl}}</div>
+			<div class="item-label">{{item.detailsUrl}}</div>
+		</div>
+	</div>
+</div>	

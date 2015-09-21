@@ -3,7 +3,14 @@ html(ng-app="app")
 	head
 	title= title
 	link(rel='stylesheet', href='/stylesheets/style.css')
+	link(rel='stylesheet', href='https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap.min.css')
+	script(src='https://ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js')
 	script(src='https://ajax.googleapis.com/ajax/libs/angularjs/1.4.6/angular.min.js')
 body
 	block content
-	script(src='/javascripts/app.js')
+	script(src='/javascripts/ui/vendor/ng-infinite-scroll.js')
+	script(src='/javascripts/ui/vendor/angular-route.js')
+	script(src='/javascripts/ui/src/App.js')
+	script(src='/javascripts/ui/src/routes/routes.js')
+	script(src='/javascripts/ui/src/services/ItemService.js')
+	script(src='/javascripts/ui/src/controllers/ItemController.js')
