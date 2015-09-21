@@ -1,13 +1,12 @@
 <div class="container" infinite-scroll='myPagingFunction()'>
 	<div >
 		<div class="item col-md-3 col-sm-6 col-xs-12" ng-repeat="item in items">
-			<div class="item-label">{{item.title}}</div>
-			<img ng-src="{{item.thumbnailUrl}}" alt="fashion picture">
-			<div class="item-blurb">{{item.blurb}}</div>
-			<div class="item-arthor">{{item.author}}</div>
-			<div class="item-link">
-				<a target="_blank" href="{{item.detailsUrl}}">Read More!</a>
+			<div class="item-title">{{item.title}}</div>
+			<img class="item-image" ng-src="{{item.thumbnailUrl}}" alt="fashion picture">
+			<div class="item-blurb">{{item.blurb}}
+				<a class="item-link" ng-show="item.isTruncated" target="_blank" ng-href="{{item.detailsUrl}}">read more</a>
 			</div>
+			<div class="item-author">-{{item.author}}</div>
 		</div>
 	</div>
 </div>	
