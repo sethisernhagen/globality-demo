@@ -1,4 +1,4 @@
-var itemStorage = require('./storage_service.js')
+var itemStorage = require('../storage/storage_service.js')
 
 var truncatedBlurbWordLength = 32;
 
