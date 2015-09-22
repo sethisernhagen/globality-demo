@@ -1,11 +1,11 @@
 angular.module('app').config(['$routeProvider', function ($routeProvider) {
     $routeProvider
 
-        .when('/items', {
+        .when('/home', {
 	    templateUrl: 'partials/index.html',
 	    controller: 'ItemsController',
 	    controllerAs: 'itemsCntrl'
         })
 
-    .otherwise({ redirectTo: '/items' });
+    .otherwise({ redirectTo: '/home' });
 }]);
