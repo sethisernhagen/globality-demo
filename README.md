@@ -14,4 +14,5 @@ Executing "heroku open" will open the application in a browser window.
 Clone the repo to a local folder and then run these commands
   1. npm install
   2. node index.js
-  3. navigate to http://localhost:3000/
+
+ Navigate to http://localhost:3000/
