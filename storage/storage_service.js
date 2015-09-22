@@ -60,6 +60,7 @@ var items = [{
 	"detailsUrl": "http://www.zimbio.com/pictures/nsI9QpINBR3/Jean+Paul+Gaultier+Paris+Fashion+Week+Haute/JzScEJaudNl/Lakshmi+Menon"
 }, {
 	"title": "Cool! Random clothes!",
+	"text": "Jean-Paul Gaultier Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis bibendum finibus nisi at vehicula. Aliquam rutrum lacinia nulla a consectetur.",
 	"author": "Lara Alvarenga",
 	"thumbnailUrl": "https://s-media-cache-ak0.pinimg.com/236x/00/55/78/005578d7963c8cd83384c601e16f7042.jpg",
 	"detailsUrl": "http://fashionistatrends.com/casual-outfits-ae-hoodie/"
@@ -145,7 +146,7 @@ var items = [{
 	"title": "",
 	"text": "#fashion #streetstyle #outfit - Discover Sojasun Italian Facebook, Pinterest and Instagram Pages!",
 	"author": "Alessandra :)",
-	"thumbnailUrl": "https://s-media-cache-ak0.pinimg.com/236x/53/c7/fa/53c7fa0f484d0cef6f2e6ebe21363c29.jpg",
+	"thumbnailUrl": "https://s-media-cache-ak0.pinimg.com/236x/d5/40/ad/d540adc9c246d598b33805f61f623eac.jpg",
 	"detailsUrl": "http://www.shopstyle.co.uk/action/apiVisitRetailer?id=431545845&pid=uid8804-26242798-67"
 }, {
 	"title": "",
@@ -181,25 +182,25 @@ var items = [{
 	"title": "",
 	"text": "Amazing Vera Vang Nude dress ~Latest Luxurious Women's Fashion - Haute Couture - dresses, jackets. bags, jewellery, shoes etc ~ DKThese are the kind of simple projects for the laziest and most inept of crafters. Even if you can barely operate a drill, you can do most of",
 	"author": "Sunshine Dust",
-	"thumbnailUrl": "https://s-media-cache-ak0.pinimg.com/236x/a6/55/3b/a6553bdd195d6eaeb31f079a0b7c4688.jpg",
+	"thumbnailUrl": "https://s-media-cache-ak0.pinimg.com/236x/50/42/eb/5042ebe733a547663d1ad88ce9d48cd2.jpg",
 	"detailsUrl": "http://www.popsugar.com/fashion/Blake-Lively-Best-Gossip-Girl-Style-36222436"
 }, {
 	"title": "modetheworld.com - modetheworld Resources and Information.",
 	"text": "Half Sleeves T-Shirt With Mind Colored Pants and Ray Bans Click for moreThese are the kind of simple projects for the laziest and most inept of crafters. Even if you can barely operate a drill, you can do most of",
 	"author": "Crystal Rivera",
-	"thumbnailUrl": "https://s-media-cache-ak0.pinimg.com/236x/19/c4/b2/19c4b2aa05e57d6fa87b4107f998dd59.jpg",
+	"thumbnailUrl": "https://s-media-cache-ak0.pinimg.com/236x/ec/e8/ef/ece8ef1c213026f05f0b252465cf9c88.jpg",
 	"detailsUrl": "http://handsom.powershell.co.za/"
 }, {
 	"title": "",
 	"text": "thigh high boots (tumblr) 1200.45 bootsThese are the kind of simple projects for the laziest and most inept of crafters. Even if you can barely operate a drill, you can do most of",
 	"author": "Denise Becht",
-	"thumbnailUrl": "https://s-media-cache-ak0.pinimg.com/236x/e7/8d/11/e78d119bc74b341f4d520f930998f124.jpg",
+	"thumbnailUrl": "https://s-media-cache-ak0.pinimg.com/236x/dd/f8/91/ddf8919448fbd779a35ef24d16a026af.jpg",
 	"detailsUrl": "http://theothermeinside.tumblr.com/?og=1"
 }, {
 	"title": "",
 	"text": "In love with this dress!!! Sometimes I wish I had a place to go and dress up like thisThese are the kind of simple projects for the laziest and most inept of crafters. Even if you can barely operate a drill, you can do most of",
 	"author": "alissa cassel",
-	"thumbnailUrl": "https://s-media-cache-ak0.pinimg.com/236x/7f/77/82/7f77827eca64d4ad38b7a918374479c2.jpg",
+	"thumbnailUrl": "https://s-media-cache-ak0.pinimg.com/236x/64/1c/e3/641ce3d9977ae5aeaeb8981f548d3aa0.jpg",
 	"detailsUrl": "http://www.luulla.com/product/261286/custom-strapless-long-prom-dress-homecoming-dress-evening-dress-party-dress-wedding-dress-bridesmaid-dress"
 }, {
 	"title": "Ále by Alessandra Ambrosio Lookbook",
@@ -283,13 +284,13 @@ var items = [{
 	"title": "BuyerSelect - lifestyle simplified",
 	"text": "beautiful little dress-These are the kind of simple projects for the laziest and most inept of crafters. Even if you can barely operate a drill, you can do most of",
 	"author": "Megan Williams",
-	"thumbnailUrl": "https://s-media-cache-ak0.pinimg.com/236x/db/5c/60/db5c6008ac57fc04cc70a8abe2c4561e.jpg",
+	"thumbnailUrl": "https://s-media-cache-ak0.pinimg.com/236x/cf/66/3c/cf663c0c8704970363cf8021c632fe13.jpg",
 	"detailsUrl": "http://buyerselect.com/blog/"
 }, {
 	"title": "31 Insanely Easy And Clever DIY Projects",
 	"text": "DIY braceletThese are the kind of simple projects for the laziest and most inept of crafters. Even if you can barely operate a drill, you can do most of",
 	"author": "Anna Kranz",
-	"thumbnailUrl": "https://s-media-cache-ak0.pinimg.com/236x/aa/7d/a2/aa7da2c7a81f0466183a1364477c7b17.jpg",
+	"thumbnailUrl": "https://s-media-cache-ak0.pinimg.com/236x/88/39/d2/8839d20bf6304d4f027910ed2630f7a9.jpg",
 	"detailsUrl": "http://www.buzzfeed.com/peggy/31-insanely-easy-and-clever-diy-projects?sub=1624957_375217"
 }, {
 	"title": "",
@@ -385,7 +386,7 @@ var items = [{
 	"title": "Tobruck Ave Blush On Fall Colors Outfit Inspo",
 	"text": "Tobruck Ave Blush On Fall Colors Outfit InspoThese are the kind of simple projects for the laziest and most inept of crafters. Even if you can barely operate a drill, you can do most of",
 	"author": "Gloria Mariani",
-	"thumbnailUrl": "https://s-media-cache-ak0.pinimg.com/236x/11/52/32/115232e16f55d30052f42cf11fc57cb6.jpg",
+	"thumbnailUrl": "https://s-media-cache-ak0.pinimg.com/236x/4e/4d/a1/4e4da1db1a566ffe8009af51da71dfe3.jpg",
 	"detailsUrl": "http://lolobu.com/set/78966"
 }, {
 	"title": "LC Lauren Conrad Runway Collection Scallop Lace Crop Top - Women's",
@@ -421,7 +422,7 @@ var items = [{
 	"title": "New Stylish Handmade Black Straps H..",
 	"text": "Oh wow! I'm surprised I like these. They're a little more out of the box than I usually go for. Fun black heels.These are the kind of simple projects for the laziest and most inept of crafters. Even if you can barely operate a drill, you can do most of",
 	"author": "Grace Hoffman",
-	"thumbnailUrl": "https://s-media-cache-ak0.pinimg.com/236x/c2/49/80/c24980466dfe66478aa2556a1e36f5fb.jpg",
+	"thumbnailUrl": "https://s-media-cache-ak0.pinimg.com/236x/18/8f/e1/188fe1362c97df3c50bef42938dfb01d.jpg",
 	"detailsUrl": "http://outdoorlife.putra.id/"
 }, {
 	"title": "Fashion Worship",
@@ -451,7 +452,7 @@ var items = [{
 	"title": "Oh So Pretty : Photo",
 	"text": "Oh So Pretty : PhotoThese are the kind of simple projects for the laziest and most inept of crafters. Even if you can barely operate a drill, you can do most of",
 	"author": "Ramona Mangala",
-	"thumbnailUrl": "https://s-media-cache-ak0.pinimg.com/236x/52/48/dd/5248dd201db4dc04da895a22297be3c0.jpg",
+	"thumbnailUrl": "https://s-media-cache-ak0.pinimg.com/236x/94/f6/47/94f64798791d281afe225703d3f8c4a3.jpg",
 	"detailsUrl": "http://color-junkie.tumblr.com/image/112973356961"
 }, {
 	"title": "Chabeli, Carteras y Bolsos de Cuero Argentino",
@@ -499,13 +500,13 @@ var items = [{
 	"title": "Haine de firma second online: Spring 2015 Trends",
 	"text": " These are the kind of simple projects for the laziest and most inept of crafters. Even if you can barely operate a drill, you can do most of",
 	"author": "Miri",
-	"thumbnailUrl": "https://s-media-cache-ak0.pinimg.com/236x/9d/07/9e/9d079eedc782b3e590f73107d17a49c8.jpg",
+	"thumbnailUrl": "https://s-media-cache-ak0.pinimg.com/236x/40/92/77/4092776110b5fa6450c49e2481dbbd67.jpg",
 	"detailsUrl": "http://www.lolobu.com/"
 }, {
 	"title": "Shades of Amber: Chalk Paint Color Theory - Antoinette",
 	"text": "Shades of Amber: Chalk Paint Color Theory - Antoinette #1000.4 Antoinette Chalk Paint Old fashioned roses and the colour of old plaster. This is a soft pale pink with a hint of brown in it so the pink is not too sweet.These are the kind of simple projects for the laziest and most inept of crafters. Even if you can barely operate a drill, you can do most of",
 	"author": "Ashley de Lange",
-	"thumbnailUrl": "https://s-media-cache-ak0.pinimg.com/236x/01/84/9e/01849e7dda8382510579677a87cf3efb.jpg",
+	"thumbnailUrl": "https://s-media-cache-ak0.pinimg.com/236x/1d/4c/60/1d4c60016bbd9bde18acf4a55cd589db.jpg",
 	"detailsUrl": "http://shadesofamberinc.blogspot.com/2012/03/chalk-paint-color-theory-antoinette.html"
 }, {
 	"title": "Alexander Wang Fall 2015 RTW Runway",
@@ -517,7 +518,7 @@ var items = [{
 	"title": "",
 	"text": "fedora + white tank + black skinniesThese are the kind of simple projects for the laziest and most inept of crafters. Even if you can barely operate a drill, you can do most of",
 	"author": "Carryn Phillps",
-	"thumbnailUrl": "https://s-media-cache-ak0.pinimg.com/236x/55/2b/38/552b3881f9ba112abd3ea86652fedda0.jpg",
+	"thumbnailUrl": "https://s-media-cache-ak0.pinimg.com/236x/92/8e/85/928e85dfce31284d524cf0ad2859c249.jpg",
 	"detailsUrl": "http://www.shopstyle.com/action/apiVisitRetailer?id=465799828&pid=uid6704-516052-92"
 }, {
 	"title": "",
@@ -529,7 +530,7 @@ var items = [{
 	"title": "The Best Belt for Your Body Type | Glam Radar",
 	"text": "A belt is one of the best fashion accessories that a girl could ever have. Look great by picking one that works with your body type.These are the kind of simple projects for the laziest and most inept of crafters. Even if you can barely operate a drill, you can do most of",
 	"author": "desiree dermody",
-	"thumbnailUrl": "https://s-media-cache-ak0.pinimg.com/236x/a5/04/f6/a504f636769450774f1c98b7a0c720c9.jpg",
+	"thumbnailUrl": "https://s-media-cache-ak0.pinimg.com/236x/3e/a8/be/3ea8be15d92aae7c9d9cd3f3ede9375b.jpg",
 	"detailsUrl": "http://glamradar.com/the-best-belt-for-your-body-type/"
 }, {
 	"title": "Steam Punk Gear Skirt",
@@ -568,7 +569,7 @@ var items = [{
 	"thumbnailUrl": "https://s-media-cache-ak0.pinimg.com/236x/96/ce/32/96ce32647ee4e11bd59c0c6f93651839.jpg",
 	"detailsUrl": "http://womensandmenshairstyle.blogspot.com/2014/11/5-fantastic-new-dance-hairstyles-long_72.html"
 }, {
-	"title": "12 piece no brainer fall wardrobe - Tiny Twig Goes Out on a Limb",
+	"title": "12 piece no brainer fall wardrobe",
 	"text": "EASY \"how to\" fashion tips >>  Simplify your closet and make getting dressed easy on yourself!These are the kind of simple projects for the laziest and most inept of crafters. Even if you can barely operate a drill, you can do most of",
 	"author": "Tammi Jens",
 	"thumbnailUrl": "https://s-media-cache-ak0.pinimg.com/236x/04/bc/89/04bc89379feae7d3bbc3560b8f25df8b.jpg",
@@ -591,7 +592,7 @@ exports.getItemsPage = function(page, numItems) {
 
 	//find page indexes for given page
 	var startIndex = (page - 1) * numItems,
-		endIndex = startIndex + (numItems - 1);
+		endIndex = startIndex + (numItems);
 
 	return items.slice(startIndex, endIndex);
 
