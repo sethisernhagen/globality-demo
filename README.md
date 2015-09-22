@@ -8,7 +8,7 @@ Clone the repo to a local folder and then run these Heroku Command Line Tool com
   2. git push heroku master
   3. heroku ps:scale web=1
 
-Executing "heroku open" will open the applicaiton in a browser window.
+Executing "heroku open" will open the application in a browser window.
 
 ## To run locally
 Clone the repo to a local folder and then run these commands
