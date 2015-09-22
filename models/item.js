@@ -34,13 +34,14 @@ function truncateText(text, length) {
 
 }
 
-exports.getItemsTruncated = function(numItems) {
+exports.getItemsPage = function(page, numItems) {
+
 	var items,
 		output = [],
 		i,
 		item;
 
-	items = itemStorage.getItems(numItems);
+	items = itemStorage.getItemsPage(page, numItems);
 
 	for(i=0; i<items.length; i++){
 
@@ -65,4 +66,5 @@ exports.getItemsTruncated = function(numItems) {
 	}
 
 	return output;
+
 };

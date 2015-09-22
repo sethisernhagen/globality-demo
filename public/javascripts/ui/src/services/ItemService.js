@@ -9,11 +9,11 @@ angular.module("app").factory("Item", ['$http', function ItemFactory($http) {
                 url: './items'
             });
         },
-        page: function(numItems) {
+        page: function(page, numItems) {
         	return $http({
                 method: 'Get',
                 cache: false,
-                url: './items/' + numItems
+                url: './items/' + page + '/' + numItems
         	});
 
         }
