@@ -1,6 +1,6 @@
 # globality-demo
 
-This app is full stack demo for Fashionista's new website.
+This app is a full stack demo for Fashionista's new website.
 
 ## To deploy to Heroku
 Clone the repo to a local folder and then run these Heroku Command Line Tool commands 
